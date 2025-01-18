@@ -1,1 +1,1 @@
-# Walmart-Web-Scraper
+# Web-Scraper
